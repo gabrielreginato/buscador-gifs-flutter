@@ -1,6 +1,6 @@
 # GIFinder
 
-Um aplicativo desenvolvido com Flutter que permite ao usuário pesquisar e compartilhar GIFs obtidos do site GIPHY.
+Um aplicativo desenvolvido com Flutter que permite ao usuário pesquisar e compartilhar GIFs obtidos da API do site GIPHY.
 
 ## Descrição
 
