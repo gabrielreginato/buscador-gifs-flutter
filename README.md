@@ -11,8 +11,6 @@ OBS: Não há limite para quantas vezes o usuário pode atualizar a lista.
 
 ## Bibliotecas Utilizadas
 
-- flutter_lints v5.0.0
 - share_plus v10.1.4
 - transparent_image v2.0.1
 - http v1.3.0
-- flutter_launcher_icons v0.14.3
